@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like you btw!",
+      title: "Hiii",
+      subtitle: "hope u like this!",
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday pookie!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday pookie!! hope you enjoy ur day today!",
       buttonText: "Send",
     },
     {
