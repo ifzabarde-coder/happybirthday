@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Ali",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  photo: "./img/miyamura.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "I really like you btw!",
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday pookie!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "Send",
     },
     {
